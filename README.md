@@ -19,3 +19,5 @@
 * Added Plugin **PWarp**
 
 _note: if there is a bug fix it yourself_
+
+* Update README.md
