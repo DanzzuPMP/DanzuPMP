@@ -16,4 +16,5 @@
 
 ### 16/12/25
 * Added Plugin **PWarp**
-_note: if have a bug jist fixed self_
+
+_note: if there is a bug fix it yourself_
