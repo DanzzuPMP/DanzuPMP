@@ -13,7 +13,7 @@
 
 ```Follow YouTube Account :3```
 
-[![YouTube](https://img.shields.io/badge/YouTube-10%20Billion%20Plugin-lime?style=for-the-badge&logo=youtube)](https://youtube.com/@DanzuPMP)
+[![YouTube](https://img.shields.io/badge/YouTube-Subcribe-redstyle=for-the-badge&logo=youtube)](https://youtube.com/@DanzuPMP)
 
 ## Update Logs
 ### 9/12/25
