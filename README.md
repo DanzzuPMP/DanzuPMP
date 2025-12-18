@@ -13,24 +13,7 @@
 
 ```Follow YouTube Account :3```
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@USERNAME)
-
-[![YouTube](https://img.shields.io/badge/YouTube-Danzzu-red?style=flat-square&logo=youtube)](https://youtube.com/@Danzzu)
-
-<p align="center">
-  <a href="https://youtube.com/@Danzzu">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://github.com/DanzzuPMP">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-<a href="https://youtube.com/@Danzzu">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="150"/>
-</a>
-
-[![YouTube](https://img.shields.io/badge/YouTube-10%20Billion%25%20Science-lime?style=for-the-badge&logo=youtube)](https://youtube.com/@DanzuPMP)
+[![YouTube](https://img.shields.io/badge/YouTube-10%20Billion%20Plugin-lime?style=for-the-badge&logo=youtube)](https://youtube.com/@DanzuPMP)
 
 ## Update Logs
 ### 9/12/25
